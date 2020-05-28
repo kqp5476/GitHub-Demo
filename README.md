@@ -55,3 +55,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     ```{r}
     9 + 7
     ```
+
+### An Introduction
+   
+Arithmetic is *easy*! For instance
+```{r}
+3 + 2
+```
