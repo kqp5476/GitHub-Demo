@@ -62,3 +62,10 @@ Arithmetic is *easy*! For instance
 ```{r}
 3 + 2
 ```
+
+[one](DataComputing.org)
+[two](ahab/whale.Rmd)
+[three](ptth://world-bank.org)
+[four](http://world-bank.org)
+[five](//world-bank.org/index.html)
+[six](world-bank.org/index.html)
